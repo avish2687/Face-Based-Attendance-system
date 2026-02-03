@@ -53,7 +53,7 @@ This project is a complete solution for marking attendance using facial recognit
 Open a terminal in the project folder and run:
 
 ```
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ---
